@@ -1,12 +1,12 @@
 ---
-title: Afterglow Browser Harness — Privacy Policy
+title: Afterglow Aileron — Privacy Policy
 ---
 
-# Afterglow Browser Harness — Privacy Policy
+# Afterglow Aileron — Privacy Policy
 
 _Last updated: 2026-07-04_
 
-Afterglow Browser Harness ("the extension") is a local, developer-facing bridge
+Afterglow Aileron ("the extension") is a local, developer-facing bridge
 that lets an AI assistant you run yourself observe and act on browser pages you
 approve. This policy describes what the extension does and does not do with
 your data. It is written to be truthful about a tool whose entire design point
@@ -78,6 +78,6 @@ date, published in the extension's public repository.
 
 ## Contact
 
-Afterglow Browser Harness is an open-source project. Questions and reports:
+Afterglow Aileron is an open-source project. Questions and reports:
 open an issue at the project repository, or contact the maintainer at the email
 listed on the repository.
